@@ -1,0 +1,71 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://cpmorgan96.github.io/dylan-interview/bob-dylan-interview-1966-02-20/canvas-1/canvas/.json",
+  "type": "AnnotationPage",
+  "label": "",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cpmorgan96.github.io/dylan-interview/bob-dylan-interview-1966-02-20/canvas-1/canvas/-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Set-up",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://cpmorgan96.github.io/dylan-interview/bob-dylan-interview-1966-02-20/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0.000000,22.242191"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cpmorgan96.github.io/dylan-interview/bob-dylan-interview-1966-02-20/canvas-1/canvas/-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Introduction",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://cpmorgan96.github.io/dylan-interview/bob-dylan-interview-1966-02-20/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "22.242191,26.875981"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://cpmorgan96.github.io/dylan-interview/bob-dylan-interview-1966-02-20/canvas-1/canvas/-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"As it stands now...\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://cpmorgan96.github.io/dylan-interview/bob-dylan-interview-1966-02-20/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "189.058626,251.151410"
+        }
+      }
+    }
+  ]
+}
