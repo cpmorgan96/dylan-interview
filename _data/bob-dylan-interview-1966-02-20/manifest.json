@@ -23,6 +23,14 @@
         "id": "https://cpmorgan96.github.io/dylan-interview/bob-dylan-interview-1966-02-20/canvas-1/canvas",
         "type": "Canvas",
         "duration": 698.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://cpmorgan96.github.io/dylan-interview/bob-dylan-interview-1966-02-20/canvas-1/canvas/Dylan-Annontations.json",
+            "label": "Dylan Annontations"
+          }
+        ],
         "items": [
           {
             "id": "https://cpmorgan96.github.io/dylan-interview/bob-dylan-interview-1966-02-20/canvas-1/paintings",
